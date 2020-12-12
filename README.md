@@ -7,3 +7,5 @@
 - Major
 -General life
 - End of smester
+!DOCTYPE html>
+<html>
